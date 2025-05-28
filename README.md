@@ -1,2 +1,2 @@
 # Practica I
-Primera practica Python Tecno3F
+Primera practica del curso Python-Tecno3F.
